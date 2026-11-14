@@ -1,7 +1,7 @@
 ## 👋 I am Rafael
 🔹 Back-end developer
 
-// ## 📂 Projects
+<!-- ## 📂 Projects -->
 
 
 ## About Me
