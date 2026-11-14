@@ -1,8 +1,8 @@
 ## 👋 I am Rafael
 🔹 Back-end developer
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&-fi&logoColor=white)](https://rafaelfabres.vercel.app/)
+// ## 📂 Projects
+
 
 ## About Me
 🧠 I am currently studying UX and UI design.
