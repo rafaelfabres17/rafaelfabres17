@@ -1,31 +1,11 @@
-<h1 align="left">👋 I am Rafael</h1>
-<span>🔹 - Backend developer</span>
 
-###
+## 👋 I am Rafael
+🔹 Back-end developer
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&-fi&logoColor=white)](https://rafaelfabres.vercel.app/)
+## About Me
+🧠 I am currently studying UX and UI design.
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">📚 I'm currently learning UX and UI Design<br></p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongo logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/figma.svg" height="40" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/git.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/html.svg" height="40" alt="html logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/css.svg" height="40" alt="css logo" />
-</div>
-
-###
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,discordjs,firebase,mongodb,figma,nextjs,)](https://skillicons.dev)
