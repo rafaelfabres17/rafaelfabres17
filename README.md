@@ -18,7 +18,7 @@
   <a href="https://github.com/rafaelfabres17">
     <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
-  <a href="https://rafaelfabres.vercel.app/">
+  <!-- <a href="https://rafaelfabres.vercel.app/">
     <img src="https://skillicons.dev/icons?i=vercel" height="48" />
-  </a>
+  </a> -->
 </p>
